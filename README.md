@@ -1,4 +1,4 @@
-# SoftUni
+# Software University - SoftUni
 
 SoftUni certificates: 
 
